@@ -70,5 +70,8 @@ The scanning mechanism creates a radar-like detection system capable of identify
 
 ---
 
+## Circuit Diagram
+![Radar System](radar%20system.png)
+
 ## Author
 Sauhard Agnihotri
