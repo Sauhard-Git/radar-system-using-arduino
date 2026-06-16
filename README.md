@@ -75,8 +75,8 @@ The scanning mechanism creates a radar-like detection system capable of identify
 
 ## Demo Video
 
-[▶ Watch Demo](https://github.com/Sauhard-Git/radar-system-using-arduino/blob/main/radar-system.mp4)
+https://github.com/user-attachments/assets/53040bfb-4593-4d50-b8e1-f75f3a6ea398
 
-
+---
 ## Author
 Sauhard Agnihotri
